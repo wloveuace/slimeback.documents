@@ -18,5 +18,5 @@ Here we will post all the MD files for books
 
 ---
 # Remarks:
-- Windows system programming part 1 has chapters 10-11-12 missing so follow the github so when they release
+- Windows system programming part 1 has chapters 9-10-11-12 missing so follow the github so when they release
 - ANSI C has last chapter not fully Covered so follow the github so when they release
