@@ -2,7 +2,7 @@
 
 Here we will post all the MD files for books 
 
-### Currently Fully uploaded: 
+### Currently uploaded: 
 - The C programming book
 - Windows system programming part 1  
 ---
