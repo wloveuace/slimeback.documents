@@ -3,6 +3,11 @@ share_link: https://share.note.sx/8wffoi48#MLcVfe2wub+RF5Kt7pCAZoEbJYhpO566j4C96
 share_updated: 2026-02-08T17:23:23+02:00
 ---
 
+---
+layout: default
+title: Chapter 1 - Foundations
+---
+
 ### ==Windows Architecture Overview 
 
  ==**Process**== is a containment and management object that represents a running instance of a program, process contain threads that run the code and process act as a container holding objects related to the process and threads in it. Process usually contain `atleast 1 thread, Private virtual address space, access token ( security related ) , private handle table`
