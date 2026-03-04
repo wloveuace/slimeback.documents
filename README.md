@@ -1,6 +1,7 @@
 # Abdo-s-vault
 
 Here we will post all the MD files for books 
+*Some notes design doesnt make sense since im learning MD along writing*
 
 ### Currently uploaded: 
 - The C programming book
