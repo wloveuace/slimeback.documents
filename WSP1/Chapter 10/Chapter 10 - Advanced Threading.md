@@ -128,6 +128,11 @@ For example, consider two variables _A_ and _B_ stored in the same cache lin
 
 A fix for false sharing is **Align variables to separate cache lines** and using TLS
 
+You maybe wondering **When does the CPU read from cache and when from main memory ?** 
+The CPU tries to use the cache as much as possible leaving us with 2 scenarios
+1. The CPU checks the fastest, smallest cache (L1) first. If the data is found, it is a **cache hit**. 
+2. If the required data is not in L1, L2, or L3, a **cache miss** occurs and the CPU Reads from Memory (Cache Miss)
+
 ## ==**Wait Chain Traversal**==
 
 If a deadlock does occur in a non-trivial application, it’s not easy to discover where the deadlock is. There are some techniques used with debuggers that can help locate such deadlocks, this is when WCT comes handy.
