@@ -9,6 +9,7 @@ Here we will post all the MD files for books \
 ---
 ### Upcomming: 
 - ~~Modern C  (DELAYED)~~
+- Beej’s Guide to Network Programming paper
 - Windows system programming part 2  
 - SICP - Structure and Interpretation of Computer Programs
 ---
@@ -18,6 +19,7 @@ Here we will post all the MD files for books \
 - Added Chapter 10 *Windows system programming 1* (3/7/2026)
 - Discontinued Modern c (Temporarily) (3/8/2026)
 - Added a basic AI diffusion course (3/10/2026)
+- Beej’s Guide to Network Programming paper , Documented till 4.2 (3/14/2026)
 ---
 # Instructions
 1. Download obsidian
