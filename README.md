@@ -10,8 +10,9 @@ Here we will post all the MD files for books \
 ---
 ### Upcomming: 
 - ~~Modern C  (DELAYED)~~
-- Windows system programming part 2  
-- SICP - Structure and Interpretation of Computer Programs
+- Windows system programming part 2
+- Computer systems a programmer's prespective
+- ~~SICP - Structure and Interpretation of Computer Programs (DELAYED)~~ 
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
@@ -25,7 +26,9 @@ Here we will post all the MD files for books \
 - Beej’s Guide to Network Programming Completed (3/18/2026)
 - Windows system programming part 1 , chapter 11 *part 2* (3/24/2026)
 - Exams week , **No Content** 25/3/2026 - 31/3/2026
-- Windows system programming part 1 , chapter 11 *part 3* (1/4/2026) 
+- Windows system programming part 1 , chapter 11 *part 3* (1/4/2026)
+- Discontinued SICP (1/4/2026)
+- Starting CSAPP (1/4/2026)
 ---
 # Instructions
 1. Download obsidian
