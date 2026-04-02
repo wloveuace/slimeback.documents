@@ -29,6 +29,7 @@ Here we will post all the MD files for books \
 - Windows system programming part 1 , chapter 11 *part 3* (1/4/2026)
 - Discontinued SICP (1/4/2026)
 - Starting CSAPP (1/4/2026)
+- Windows system programming part 1 , chapter 12 *part 1* (2/4/2026)
 ---
 # Instructions
 1. Download obsidian
