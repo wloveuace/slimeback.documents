@@ -9,10 +9,10 @@ Here we will post all the MD files for books \
 - Beej’s Guide to Network Programming
 ---
 ### Upcomming: 
-- ~~Modern C  (DELAYED)~~
-- Windows system programming part 2
+- Modern C
+- ~~Windows system programming part 2~~
 - Computer systems a programmer's prespective
-- ~~SICP - Structure and Interpretation of Computer Programs (DELAYED)~~ 
+- ~~Beej’s Guide to Network Programming~~
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
@@ -32,6 +32,8 @@ Here we will post all the MD files for books \
 - Windows system programming part 1 , chapter 12 *part 1* (2/4/2026)
 - CSAPP introduction part 1 (4/10/2025)
 - CSAPP chapter 1 part 1 (4/10/2025)
+- Windows system programming part 1 , chapter 12 (4/13/2026)
+- Windows System Programming chapter (4/13/2026)
 ---
 # Instructions
 1. Download obsidian
@@ -40,7 +42,6 @@ Here we will post all the MD files for books \
 
 ---
 # Remarks:
-- Windows system programming part 1 has chapters 12 missing
 - ~~ANSI C has last chapter not fully Covered~~ | Completed ( 3/2/2026 ) ✅
 - Modern C folder will be discontinued and summerized in one file such as ANSI C
 - Better documentation template when describing concepts and functions , Check Updates/UP1.md
