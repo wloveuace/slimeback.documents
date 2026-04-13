@@ -10,9 +10,11 @@ Here we will post all the MD files for books \
 ---
 ### Upcomming: 
 - Modern C
-- ~~Windows system programming part 2~~
+- Windows system programming part 2
 - Computer systems a programmer's prespective
 - ~~Beej’s Guide to Network Programming~~
+- ~~Windows System Programming Part 1~~
+- ~~The C programming Language~~
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
