@@ -10,7 +10,7 @@ Here we will post all the MD files for books \
 ---
 ### Upcomming: 
 - Modern C
-- Windows system programming part 2
+- Windows internals part 1
 - Computer systems a programmer's prespective
 - ~~Beej’s Guide to Network Programming~~
 - ~~Windows System Programming Part 1~~
