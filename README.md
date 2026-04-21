@@ -37,6 +37,7 @@ Here we will post all the MD files for books \
 - Windows system programming part 1 , chapter 12 (4/13/2026)
 - Windows System Programming completed (4/13/2026)
 - CSAPP chapter 1 (4/14/2026)
+- Windows internals chapter 3 part 1 (4/20/2026)
 ---
 # Instructions
 1. Download obsidian
