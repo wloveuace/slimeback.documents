@@ -9,13 +9,7 @@ Here we will post all the MD files for books \
 - Beej’s Guide to Network Programming
 ---
 ### Upcomming: 
-- Modern C
-- Computer systems a programmer's prespective
-- Memory allocation algorithms paper
-- Windows system programming 2
-- ~~Beej’s Guide to Network Programming~~
-- ~~Windows System Programming Part 1~~
-- ~~The C programming Language~~
+- GCC Command Options
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
