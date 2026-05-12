@@ -11,8 +11,8 @@ Here we will post all the MD files for books \
 - Memory allocation startegies
 ---
 ### Upcomming: 
-- GCC Command Options
 - CSAPP
+- Bash scripting fundementals
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
@@ -33,6 +33,7 @@ Here we will post all the MD files for books \
 - Memory allocation strategies 4/6 (5/1/2026)
 - Memory allocation strategies 5/6 (5/3/2026)
 - Memory allocation strategies 6/6 (5/6/2026)
+- Introduction to GCC book (5/12/2026)
 ---
 # Instructions
 1. Download obsidian
@@ -41,6 +42,4 @@ Here we will post all the MD files for books \
 
 ---
 # Remarks:
-- ~~ANSI C has last chapter not fully Covered~~ | Completed ( 3/2/2026 ) ✅
-- Modern C folder will be discontinued and summerized in one file such as ANSI C
-- Better documentation template when describing concepts and functions , Check Updates/UP1.md
+No remarks for now :) 
