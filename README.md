@@ -9,6 +9,7 @@ Here we will post all the MD files for books \
 - Beej’s Guide to Network Programming
 - Artificial intelligence diffusion explained
 - Memory allocation startegies
+- GCC introduction book
 ---
 ### Upcomming: 
 - CSAPP
