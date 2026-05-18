@@ -12,7 +12,7 @@ Here we will post all the MD files for books \
 - GCC introduction book
 ---
 ### Upcomming: 
-- CSAPP
+- Modern C
 - Bash scripting fundementals
 ---
 ### Content updates:
