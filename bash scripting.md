@@ -10,7 +10,7 @@
 	`cat << EOF` will wait for input till we write EOF
 
 ```
-if \[Expr]; then
+if [Expr]; then
 	do something
 elif []; then  
 	do something
